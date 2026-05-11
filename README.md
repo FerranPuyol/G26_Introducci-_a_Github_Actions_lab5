@@ -1,5 +1,3 @@
-# G26_Introducci-_a_Github_Actions_lab5
-
 # Software Engineering Pipeline
 
 Aquest projecte és una petita aplicació de calculadora utilitzada per aprendre a configurar fluxos de treball àgils i integració contínua (CI) mitjançant GitHub Actions.
